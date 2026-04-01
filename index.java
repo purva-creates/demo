@@ -10,7 +10,7 @@ public  class index{
         this.place=p;
     }
      public static void main(String[] args){
-    index c=new index(45,"Amravati");
+    index c=new index(45,"India");
 
     System.out.println(c);
     
